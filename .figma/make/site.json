@@ -1,0 +1,10 @@
+{
+  "description": "A premium e-commerce platform offering modern home decor and interior accessories with elegant design, seamless shopping, and personalized user accounts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
